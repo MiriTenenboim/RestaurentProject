@@ -1,0 +1,130 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>RICOTTA Restaurant</title>
+    <!-- AXIOS-->
+    <script src="../JavaScript/axiosWithoutInthernet.js"></script>
+    <script src="../Conection/NewRationConnection.js"></script>
+    <link rel="icon" type="image/x-icon" href="../Images/Logo-removebg-preview.jpg" />
+    <link href="../Css/EnterPageCss.css" rel="stylesheet" />
+    <script src="../Conection/RestaurentMenuConection.js"></script>
+    <script src="../JavaScript/RationPageJavaScript.js"></script>
+    <link href="../Css/RestaurentMenuStyleSheet.css" rel="stylesheet" />
+    <link href="../Css/GeneralCss.css" rel="stylesheet" />
+    <link href="../Css/RationPageCss.css" rel="stylesheet" />
+    <title></title>
+</head>
+<body onload="GetOptionsCategories('https://localhost:44387/api/FoodCategory/GetAllCategories'), GetOptionsRations('https://localhost:44387/api/Rations/GetNameRations')">
+    <img id="Logo" src="../Images/Logo-removebg-preview.jpg" />
+    <div>
+        <nav>
+            <ul>
+                <li class="active"><a href="HomePageManager.html">Home Page</a></li>
+                <li><a href="NewRationPage.html">Add Or Update A Ration</a></li>
+                <li><a href="NewTablePage.html">Add Or Update A Table</a></li>
+                <li><a href="NewFoodCategoryPage.html">Add Or Update A Food Category</a></li>
+            </ul>
+        </nav>
+    </div>
+    <div id="underNav"></div>
+    <br />
+    <div class="login-wrap">
+        <div class="login-html">
+            <input id="tab-1" type="radio" name="tab" class="sign-in" checked><label for="tab-1" class="tab">Add Ration</label>
+            <input id="tab-2" type="radio" name="tab" class="sign-up"><label for="tab-2" class="tab">Update Ration</label>
+            <div class="login-form">
+                <div class="sign-in-htm">
+                    <div class="group">
+                        <label for="RationName1" class="label">Ration Name</label>
+                        <input id="RationName1" type="text" class="input">
+                    </div>
+                    <div class="group">
+                        <label for="PriceRation1" class="label">Ration Price</label>
+                        <input id="PriceRation1" type="number" min="0" class="input">
+                    </div>
+                    <div class="group">
+                        <label for="CategoryName1" class="label">Category Name</label>
+                        <select id="CategoryName1" class="categories user-select-all">
+                        </select>
+                    </div>
+                    <div class="group">
+                        <label for="ContainRation1" class="label">Ration's Contain</label>
+                        <input id="ContainRation1" type="text" class="input">
+                    </div>
+                    <div class="group">
+                        <label for="DairyOrNot1" class="label">Is The Ration Dairy Or Not</label>
+                        <select id="DairyOrNot1" class="user-select-all">
+                            <option value="line0">בחר</option>
+                            <option value="line1">חלבי</option>
+                            <option value="line2">פרווה</option>
+                        </select>
+                    </div>
+                    <div class="group">
+                        <label for="ScoreOfRation1" class="label">Number score Of The Ration</label>
+                        <input id="ScoreOfRation1" type="number" min="0" max="10" class="input">
+                    </div>
+                    <div class="group">
+                        <label for="PictureRation1" class="label">Picture Path</label>
+                        <input id="PictureRation1" type="text" class="input">
+                    </div>
+                    <div class="group">
+                        <label for="AmountRation1" class="label">Amount Ration</label>
+                        <input id="AmountRation1" type="number" class="input">
+                    </div>
+                    <br /><br />
+                    <div class="group">
+                        <button onclick="AddRation('https://localhost:44387/api/Rations/AddRation',1)" class="button">Add the ration</button>
+                    </div>
+                    <div class="hr"></div>
+                </div>
+                <div class="sign-up-htm">
+                    <div class="group">
+                        <label for="RationName2" class="label">Ration Name</label>
+                        <select id="RationName2" onchange="FillDetails()" class="user-select-all">
+                        </select>
+                    </div>
+                    <div class="group">
+                        <label for="PriceRation2" class="label">Ration Price</label>
+                        <input id="PriceRation2" type="number" min="0" class="input">
+                    </div>
+                    <div class="group">
+                        <label for="CategoryName2" class="label">Category Name</label>
+                        <select id="CategoryName2" class="categories">
+                        </select>
+                    </div>
+                    <div class="group">
+                        <label for="ContainRation2" class="label">Ration's Contain</label>
+                        <input id="ContainRation2" type="text" class="input">
+                    </div>
+                    <div class="group">
+                        <label for="DairyOrNot2" class="label">Is The Ration Dairy Or Not</label>
+                        <select id="DairyOrNot2" class="user-select-all">
+                            <option value="line0">בחר</option>
+                            <option value="חלבי">חלבי</option>
+                            <option value="פרווה">פרווה</option>
+                        </select>
+                    </div>
+                    <div class="group">
+                        <label for="ScoreOfRation2" class="label">Number score Of The Ration</label>
+                        <input id="ScoreOfRation2" type="number" min="0" max="10" class="input">
+                    </div>
+                    <div class="group">
+                        <label for="PictureRation2" class="label">Picture Path</label>
+                        <input id="PictureRation2" type="text" class="input">
+                    </div>
+                    <div class="group">
+                        <label for="AmountRation2" class="label">Amount Ration</label>
+                        <input id="AmountRation2" type="number" class="input">
+                    </div>
+                    <br /><br />
+                    <div class="group">
+                        <button onclick="AddRation('https://localhost:44387/api/Rations/AddRation',2)" class="button">Update the ration</button>
+                    </div>
+                    <div class="hr"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

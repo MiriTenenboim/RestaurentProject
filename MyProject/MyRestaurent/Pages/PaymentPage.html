@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>RICOTTA Restaurant</title>
+    <!-- AXIOS -->
+    <link rel="icon" type="image/x-icon" href="../Images/Logo-removebg-preview.jpg" />
+    <script src="../JavaScript/axiosWithoutInthernet.js"></script>
+    <script src="../JavaScript/PaymentJavaScript.js"></script>
+    <link href="../Css/RestaurentMenuStyleSheet.css" rel="stylesheet" />
+    <link href="../Css/GeneralCss.css" rel="stylesheet" />
+    <link href="../Css/PaymentCss.css" rel="stylesheet" />
+</head>
+<body>
+    <img id="Logo" src="../Images/Logo-removebg-preview.jpg" />
+    <nav>
+        <ul>
+            <li class="active"><a href="HomePage.html">Home Page</a></li>
+            <li><a href="RestaurantMenuPage.html">Restaurant Menu</a></li>
+            <li><a href="FinalOrderPage.html">Order Summary</a></li>
+            <li><a href="RatePage.html">Rate A Dish</a></li>
+        </ul>
+    </nav>
+    <div id="underNav"></div>
+    <select onchange="PaymentMethod()" id="PaymentMethod">
+        <option value="1">בחר צורת תשלום</option>
+        <option value="2">כרטיס אשראי</option>
+        <option value="3">מזומן</option>
+    </select>
+    <br /><br /><br />
+    <div id="Answer">
+    </div>
+</body>
+</html>

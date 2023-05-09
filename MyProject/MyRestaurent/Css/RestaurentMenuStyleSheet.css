@@ -1,0 +1,145 @@
+﻿#filter {
+    display: none;
+}
+
+td {
+    padding-right: 50px;
+}
+
+.MenuTd, .MenuTh {
+    padding: 40px;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    cursor:pointer;
+}
+
+.orderButton {
+    color: #c6c6c6;
+    display: block;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 25px;
+    background: #466498;
+    font-size: 15px;
+    width: 140px;
+    cursor: pointer;
+}
+
+    .orderButton:hover {
+        background: #1e285f;
+    }
+
+.RestaurentImg {
+    width: 150px;
+}
+
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://fonts.gstatic.com/s/sourcesanspro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf) format('truetype');
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+#Filter {
+    margin-right: 30%;
+    text-align: center;
+    padding: 40px;
+    font-family: Calibri
+}
+
+select {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    font-size: 16px;
+    color: #0e1644;
+    width: 220px;
+    height: 40px;
+    background-color: #e6e9ec;
+    border: none;
+    border-bottom: 3px solid #0e1644;
+}
+
+    select:hover {
+        border-bottom-color: #466498;
+    }
+
+    select:checked {
+        border: none
+    }
+
+.ContainTd {
+    width: 500px;
+}
+
+.input {
+    display: inline-block;
+    position: relative;
+    font-size: 16px;
+    color: #0e1644;
+    width: 150px;
+    height: 40px;
+    background-color: #e6e9ec;
+    border: none;
+    border-bottom: 3px solid #0e1644;
+}
+
+.range {
+    width: 200px;
+}
+
+
+.type2 {
+    position: relative;
+    padding: 1em 1.5em;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    outline: none;
+    width: 200px;
+    color: #0e1644;
+    font: bold 20px 'Open Sans',sans-serif;
+    padding: 10px
+}
+
+    .type2:hover {
+        background: #c1c1c1;
+    }
+
+    .type2:after, .type2:before {
+        content: "";
+        display: block;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        height: 2px;
+        background-color: #0e1644;
+        transition: all 0.3s ease;
+        transform: scale(0.85);
+    }
+
+    .type2:hover:before {
+        top: 0;
+        transform: scale(1);
+    }
+
+    .type2:hover:after {
+        transform: scale(1);
+    }
+
+#RangeMin, #RangeMax ,#RangeButton{
+    padding-right:20px
+}
+

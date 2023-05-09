@@ -1,0 +1,19 @@
+﻿.MenuTd, .MenuTh {
+    padding: 20px;
+}
+
+.TableTd, .TableTh {
+    padding: 10px;
+}
+
+#AllTables {
+    padding-right: 200px
+}
+
+#filtering, #Error {
+    display: none;
+}
+
+#Error {
+    font-size: 30px;
+}

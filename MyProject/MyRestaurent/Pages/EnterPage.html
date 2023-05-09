@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>RICOTTA Restaurant</title>
+    <!-- AXIOS -->
+    <link rel="icon" type="image/x-icon" href="../Images/Logo-removebg-preview.jpg" />
+    <script src="../JavaScript/axiosWithoutInthernet.js"></script>
+    <link href="../Css/GeneralCss.css" rel="stylesheet" />
+    <link href="../Css/EnterPageCss.css" rel="stylesheet" />
+    <script src="../Conection/EnterConnection.js"></script>
+    <script src="../JavaScript/EnterJavaScript.js"></script>
+</head>
+<body onload="UpdateAmount()">
+    <div class="login-wrap">
+        <div class="login-html">
+            <input id="tab-1" type="radio" name="tab" class="sign-in" checked><label for="tab-1" class="tab">User login</label>
+            <input id="tab-2" type="radio" name="tab" class="sign-up"><label for="tab-2" class="tab">Admin login</label>
+            <div class="login-form">
+                <div class="sign-in-htm">
+                    <div class="group">
+                        <label for="Name1" class="label">User Name</label>
+                        <input id="Name1" type="text" class="input">
+                    </div>
+                    <div class="group">
+                        <label for="FamilyName1" class="label">User Family Name</label>
+                        <input id="FamilyName1" type="text" class="input">
+                    </div>
+                    <div class="group">
+                        <label for="numberPhone1" class="label">User Number Phone</label>
+                        <input id="numberPhone1" type="text" class="input" maxlength="10">
+                    </div>
+                    <div class="group">
+                        <label for="emailAddress1" class="label">User Email Address</label>
+                        <input id="emailAddress1" type="text" class="input">
+                    </div><br /><br />
+                    <div class="group">
+                        <button onclick="CheckDetails(1)" class="button">Sign In</button>
+                    </div>
+                    <div class="hr"></div>
+                </div>
+                <div class="sign-up-htm">
+                    <div class="group">
+                        <label for="Name2" class="label">Admin Name</label>
+                        <input id="Name2" type="text" class="input">
+                    </div>
+                    <div class="group">
+                        <label for="FamilyName2" class="label">Admin Family Name</label>
+                        <input id="FamilyName2" type="text" class="input">
+                    </div>
+                    <div class="group">
+                        <label for="numberPhone2" class="label">Admin Number Phone</label>
+                        <input id="numberPhone2" type="text" class="input" maxlength="10">
+                    </div>
+                    <div class="group">
+                        <label for="emailAddress2" class="label">Admin Email Address</label>
+                        <input id="emailAddress2" type="text" class="input">
+                    </div><br /><br />
+                    <div class="group">
+                        <button onclick="CheckDetails(2)" class="button">Sign In</button>
+                    </div>
+                    <div class="hr"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,68 @@
+﻿.Row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Column {
+    flex: 33.3%;
+    max-width: 33.3%;
+}
+
+    .Column img {
+        vertical-align: middle;
+    }
+
+
+img {
+    width: 100%;
+}
+
+.Link {
+    width: auto;
+    height: auto;
+    overflow: hidden;
+    position: relative;
+}
+
+    .Link img {
+        width: 100%;
+        height: auto;
+        z-index: 0;
+    }
+
+    .Link:hover img {
+        filter: opacity(60%);
+        z-index: -100;
+    }
+
+.box-text div {
+    width: 100%;
+    height: 80px;
+    padding: 15px;
+    color: #c1c1c1;
+    background-color: #172054;
+    position: absolute;
+    bottom: 8px;
+    font-size: 30px;
+    margin-bottom: 10px;
+    opacity: 0.9;
+}
+
+a {
+    text-decoration: none;
+}
+
+.box-text:hover {
+    filter: contrast(200%);
+}
+
+@media screen and (max-width: 992px) {
+    .Column {
+        flex: 100%;
+        max-width: 100%;
+    }
+
+    .box-text div {
+        font-size: 45px;
+    }
+}

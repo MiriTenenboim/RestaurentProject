@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>RICOTTA Restaurant</title>
+    <!-- AXIOS -->
+    <link rel="icon" type="image/x-icon" href="../Images/Logo-removebg-preview.jpg" />
+    <script src="../JavaScript/axiosWithoutInthernet.js"></script>
+    <link href="../../Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="../Css/GeneralCss.css" rel="stylesheet" />
+    <script src="../Conection/TablesConection.js"></script>
+    <script src="../JavaScript/RestaurentMenuJavaScript.js"></script>
+    <script src="../JavaScript/TablesJavaScript.js"></script>
+</head>
+<body onload="Init()">
+    <img id="Logo" src="../Images/Logo-removebg-preview.jpg" />
+    <div id="filtering">
+        <table id="Filter">
+            <tr>
+                <td class="TdFilter">
+                    <!-- אפשרויות סינון -->
+                    <select class="form-select form-select-lg" id="MainFilter" onchange="Filtering()">
+                        <option value="0">אפשרויות סינון</option>
+                        <option value="1">מספר סועדים</option>
+                        <option value="2">מיקום השולחן</option>
+                    </select>
+                </td>
+                <!-- סינון פנימי לפי הבחירה של הסינון החיצוני -->
+                <td id="TdFilter" onchange="GetTablesAfterFiltering()">
+                    <select style="display:none" class="form-select form-select-lg InternalFiltering" id="filter">
+                    </select>
+                </td>
+                <td id="Range">
+                </td>
+            </tr>
+        </table>
+        <div id="AllTables"></div>
+        <!--<button onclick="MenuFiltering()">לסינון</button>-->
+    </div>
+</body>
+</html>

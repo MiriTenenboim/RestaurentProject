@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>RICOTTA Restaurant</title>
+    <!-- AXIOS -->
+    <script src="../JavaScript/axiosWithoutInthernet.js"></script>
+    <link rel="icon" type="image/x-icon" href="../Images/Logo-removebg-preview.jpg" />
+    <link href="../Css/GeneralCss.css" rel="stylesheet" />
+    <link href="../Css/EnterPageCss.css" rel="stylesheet" />
+    <link href="../Css/RestaurentMenuStyleSheet.css" rel="stylesheet" />
+    <link href="../Css/RatePageCss.css" rel="stylesheet" />
+    <script src="../Conection/RateRationConection.js"></script>
+    <script src="../JavaScript/RationPageJavaScript.js"></script>
+    <link href="../Css/RationPageCss.css" rel="stylesheet" />
+</head>
+<body onload="GetOptionsRations('https://localhost:44387/api/Rations/GetNameRations')">
+    <img id="Logo" src="../Images/Logo-removebg-preview.jpg" />
+    <div>
+        <nav>
+            <ul>
+                <li class="active"><a href="HomePage.html">Home Page</a></li>
+                <li><a href="RestaurantMenuPage.html">Restaurant Menu</a></li>
+                <li><a href="FinalOrderPage.html">Order Summary</a></li>
+                <li><a href="RatePage.html">Rate a dish</a></li>
+            </ul>
+        </nav>
+    </div>
+    <div id="underNav"></div>
+    <div class="login-wrap">
+        <div class="login-html">
+            <input id="tab-1" type="radio" name="tab" class="sign-in" checked><label for="tab-1" class="tab">Rate a dish</label>
+            <input id="tab-2" type="radio" name="tab" class="sign-up"><label for="tab-2" class="tab"></label>
+            <div class="login-form">
+                <div class="sign-in-htm">
+                    <div class="group">
+                        <label for="RationName2" class="label">Ration Name</label>
+                        <select id="RationName2">
+                        </select>
+                    </div>
+                    <div class="group">
+                        <label for="scoreOfRation" class="label">Number Score Of Ration</label>
+                        <input id="scoreOfRation" type="number" min="1" max="10" class="input">
+                    </div>
+                    <div class="group">
+                        <label for="comments" class="label">Comments</label>
+                        <input id="comments" type="text" class="input">
+                    </div>
+                    <br /><br />
+                    <div class="group">
+                        <button onclick="checkDetails()" class="button orderButton">Add Rate Ration</button>
+                    </div>
+                    <div class="hr"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

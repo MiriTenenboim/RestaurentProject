@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RestaurentModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="AmountRationInInvitation">
+    <Key>
+      <PropertyRef Name="CodeAmountRationInInvitation" />
+    </Key>
+    <Property Name="CodeAmountRationInInvitation" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CodeRation" Type="int" Nullable="false" />
+    <Property Name="AmountRationInvitation" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Clients">
+    <Key>
+      <PropertyRef Name="CodeClient" />
+    </Key>
+    <Property Name="CodeClient" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NameClient" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="FamilyNameClient" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="NumberPhoneClient" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="EmailAdressClient" Type="nvarchar" MaxLength="50" />
+    <Property Name="CodeRole" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="FoodCategory">
+    <Key>
+      <PropertyRef Name="CodeCategory" />
+    </Key>
+    <Property Name="CodeCategory" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NameCategory" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="InvitationInTable">
+    <Key>
+      <PropertyRef Name="CodeInvitationInTable" />
+    </Key>
+    <Property Name="CodeInvitationInTable" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CodeInvitation" Type="int" Nullable="false" />
+    <Property Name="CodeTable" Type="int" Nullable="false" />
+    <Property Name="OrderHour" Type="datetime" Nullable="false" />
+    <Property Name="StatusTable" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Invitations">
+    <Key>
+      <PropertyRef Name="CodeInvitation" />
+    </Key>
+    <Property Name="CodeInvitation" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DateInvitation" Type="date" />
+    <Property Name="CodeClient" Type="int" Nullable="false" />
+    <Property Name="PriceToPay" Type="money" Nullable="false" />
+    <Property Name="PaymentMethod" Type="nvarchar" MaxLength="50" />
+    <Property Name="PaidOrUnpaid" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="RateRations">
+    <Key>
+      <PropertyRef Name="CodeRateRation" />
+    </Key>
+    <Property Name="CodeRateRation" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CodeClient" Type="int" Nullable="false" />
+    <Property Name="CodeRation" Type="int" Nullable="false" />
+    <Property Name="ScoreOfRation" Type="int" Nullable="false" />
+    <Property Name="Comments" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="RationInInvitation">
+    <Key>
+      <PropertyRef Name="CodeRationInvitation" />
+    </Key>
+    <Property Name="CodeRationInvitation" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CodeInvitation" Type="int" Nullable="false" />
+    <Property Name="CodeRation" Type="int" Nullable="false" />
+    <Property Name="AmountRation" Type="int" Nullable="false" />
+    <Property Name="PricePerServing" Type="money" Nullable="false" />
+    <Property Name="IsPerformed" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Rations">
+    <Key>
+      <PropertyRef Name="CodeRation" />
+    </Key>
+    <Property Name="CodeRation" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NameRation" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="PriceRation" Type="money" Nullable="false" />
+    <Property Name="CodeCategory" Type="int" Nullable="false" />
+    <Property Name="ContainRation" Type="nvarchar(max)" />
+    <Property Name="DairyOrNot" Type="bit" Nullable="false" />
+    <Property Name="ScoreOfRation" Type="int" Nullable="false" />
+    <Property Name="AmountRation" Type="int" Nullable="false" />
+    <Property Name="OldAmountRation" Type="int" Nullable="false" />
+    <Property Name="DateUpdateAmount" Type="date" />
+    <Property Name="PictureRation" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="CodeRole" />
+    </Key>
+    <Property Name="CodeRole" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KindRole" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Tables">
+    <Key>
+      <PropertyRef Name="CodeTable" />
+    </Key>
+    <Property Name="CodeTable" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NumberOfDiners" Type="int" Nullable="false" />
+    <Property Name="TableLocation" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_AmountRationInInvitation_Rations">
+    <End Role="Rations" Type="Self.Rations" Multiplicity="1" />
+    <End Role="AmountRationInInvitation" Type="Self.AmountRationInInvitation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rations">
+        <PropertyRef Name="CodeRation" />
+      </Principal>
+      <Dependent Role="AmountRationInInvitation">
+        <PropertyRef Name="CodeRation" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Clients_Role">
+    <End Role="Role" Type="Self.Role" Multiplicity="1" />
+    <End Role="Clients" Type="Self.Clients" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Role">
+        <PropertyRef Name="CodeRole" />
+      </Principal>
+      <Dependent Role="Clients">
+        <PropertyRef Name="CodeRole" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_InvitationInTable_Invitations">
+    <End Role="Invitations" Type="Self.Invitations" Multiplicity="1" />
+    <End Role="InvitationInTable" Type="Self.InvitationInTable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Invitations">
+        <PropertyRef Name="CodeInvitation" />
+      </Principal>
+      <Dependent Role="InvitationInTable">
+        <PropertyRef Name="CodeInvitation" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_InvitationInTable_Tables">
+    <End Role="Tables" Type="Self.Tables" Multiplicity="1" />
+    <End Role="InvitationInTable" Type="Self.InvitationInTable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tables">
+        <PropertyRef Name="CodeTable" />
+      </Principal>
+      <Dependent Role="InvitationInTable">
+        <PropertyRef Name="CodeTable" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Invitations_Clients">
+    <End Role="Clients" Type="Self.Clients" Multiplicity="1" />
+    <End Role="Invitations" Type="Self.Invitations" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Clients">
+        <PropertyRef Name="CodeClient" />
+      </Principal>
+      <Dependent Role="Invitations">
+        <PropertyRef Name="CodeClient" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RateRations_Clients">
+    <End Role="Clients" Type="Self.Clients" Multiplicity="1" />
+    <End Role="RateRations" Type="Self.RateRations" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Clients">
+        <PropertyRef Name="CodeClient" />
+      </Principal>
+      <Dependent Role="RateRations">
+        <PropertyRef Name="CodeClient" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RateRations_Rations">
+    <End Role="Rations" Type="Self.Rations" Multiplicity="1" />
+    <End Role="RateRations" Type="Self.RateRations" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rations">
+        <PropertyRef Name="CodeRation" />
+      </Principal>
+      <Dependent Role="RateRations">
+        <PropertyRef Name="CodeRation" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RationInInvitation_Invitations">
+    <End Role="Invitations" Type="Self.Invitations" Multiplicity="1" />
+    <End Role="RationInInvitation" Type="Self.RationInInvitation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Invitations">
+        <PropertyRef Name="CodeInvitation" />
+      </Principal>
+      <Dependent Role="RationInInvitation">
+        <PropertyRef Name="CodeInvitation" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RationInInvitation_Rations">
+    <End Role="Rations" Type="Self.Rations" Multiplicity="1" />
+    <End Role="RationInInvitation" Type="Self.RationInInvitation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rations">
+        <PropertyRef Name="CodeRation" />
+      </Principal>
+      <Dependent Role="RationInInvitation">
+        <PropertyRef Name="CodeRation" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Rations_FoodCategory">
+    <End Role="FoodCategory" Type="Self.FoodCategory" Multiplicity="1" />
+    <End Role="Rations" Type="Self.Rations" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="FoodCategory">
+        <PropertyRef Name="CodeCategory" />
+      </Principal>
+      <Dependent Role="Rations">
+        <PropertyRef Name="CodeCategory" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="RestaurentModelStoreContainer">
+    <EntitySet Name="AmountRationInInvitation" EntityType="Self.AmountRationInInvitation" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Clients" EntityType="Self.Clients" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="FoodCategory" EntityType="Self.FoodCategory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="InvitationInTable" EntityType="Self.InvitationInTable" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Invitations" EntityType="Self.Invitations" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="RateRations" EntityType="Self.RateRations" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="RationInInvitation" EntityType="Self.RationInInvitation" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Rations" EntityType="Self.Rations" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Role" EntityType="Self.Role" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tables" EntityType="Self.Tables" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_AmountRationInInvitation_Rations" Association="Self.FK_AmountRationInInvitation_Rations">
+      <End Role="Rations" EntitySet="Rations" />
+      <End Role="AmountRationInInvitation" EntitySet="AmountRationInInvitation" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Clients_Role" Association="Self.FK_Clients_Role">
+      <End Role="Role" EntitySet="Role" />
+      <End Role="Clients" EntitySet="Clients" />
+    </AssociationSet>
+    <AssociationSet Name="FK_InvitationInTable_Invitations" Association="Self.FK_InvitationInTable_Invitations">
+      <End Role="Invitations" EntitySet="Invitations" />
+      <End Role="InvitationInTable" EntitySet="InvitationInTable" />
+    </AssociationSet>
+    <AssociationSet Name="FK_InvitationInTable_Tables" Association="Self.FK_InvitationInTable_Tables">
+      <End Role="Tables" EntitySet="Tables" />
+      <End Role="InvitationInTable" EntitySet="InvitationInTable" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Invitations_Clients" Association="Self.FK_Invitations_Clients">
+      <End Role="Clients" EntitySet="Clients" />
+      <End Role="Invitations" EntitySet="Invitations" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RateRations_Clients" Association="Self.FK_RateRations_Clients">
+      <End Role="Clients" EntitySet="Clients" />
+      <End Role="RateRations" EntitySet="RateRations" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RateRations_Rations" Association="Self.FK_RateRations_Rations">
+      <End Role="Rations" EntitySet="Rations" />
+      <End Role="RateRations" EntitySet="RateRations" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RationInInvitation_Invitations" Association="Self.FK_RationInInvitation_Invitations">
+      <End Role="Invitations" EntitySet="Invitations" />
+      <End Role="RationInInvitation" EntitySet="RationInInvitation" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RationInInvitation_Rations" Association="Self.FK_RationInInvitation_Rations">
+      <End Role="Rations" EntitySet="Rations" />
+      <End Role="RationInInvitation" EntitySet="RationInInvitation" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Rations_FoodCategory" Association="Self.FK_Rations_FoodCategory">
+      <End Role="FoodCategory" EntitySet="FoodCategory" />
+      <End Role="Rations" EntitySet="Rations" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

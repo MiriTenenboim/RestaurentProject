@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>RICOTTA Restaurant</title>
+    <!-- AXIOS -->
+    <link rel="icon" type="image/x-icon" href="../Images/Logo-removebg-preview.jpg" />
+    <script src="../JavaScript/axiosWithoutInthernet.js"></script>
+    <link href="../Css/GeneralCss.css" rel="stylesheet" />
+    <script src="../JavaScript/FinalOrderJavaScript.js"></script>
+    <script src="../JavaScript/RestaurentMenuJavaScript.js"></script>
+    <script src="../JavaScript/TablesJavaScript.js"></script>
+    <script src="../Conection/TablesConection.js"></script>
+    <link href="../Css/RestaurentMenuStyleSheet.css" rel="stylesheet" />
+    <link href="../Css/FinalOrderCss.css" rel="stylesheet" />
+</head>
+<body onload="GetAllRationsInInvitation(), UpdateTables(), InitT()">
+    <img id="Logo" src="../Images/Logo-removebg-preview.jpg" />
+    <div>
+        <nav>
+            <ul>
+                <li class="active"><a href="HomePage.html">Home Page</a></li>
+                <li><a href="RestaurantMenuPage.html">Restaurant Menu</a></li>
+                <li><a href="FinalOrderPage.html">Order Summary</a></li>
+                <li><a href="RatePage.html">Rate A Dish</a></li>
+            </ul>
+        </nav>
+    </div>
+    <div id="underNav"></div>
+    <div id="AllRations"></div>
+    <div id="Error"></div>
+    <div id="filtering">
+        <table id="Filter">
+            <tr>
+                <td class="TdFilter">
+                    <!-- אפשרויות סינון -->
+                    <select class="form-select form-select-lg" id="MainFilter" onchange="Filtering()">
+                        <option value="0">אפשרויות סינון</option>
+                        <option value="1">מספר סועדים</option>
+                        <option value="2">מיקום השולחן</option>
+                    </select>
+                </td>
+                <!-- סינון פנימי לפי הבחירה של הסינון החיצוני -->
+                <td id="TdFilter" onchange="GetTablesAfterFiltering()">
+                    <select style="display:none" id="filter">
+                    </select>
+                </td>
+                <td id="Range">
+                </td>
+            </tr>
+        </table>
+        <div id="AllTables"></div>
+    </div>
+    <!-- footer -->
+    <div style="height:150px;"></div>
+</body>
+</html>

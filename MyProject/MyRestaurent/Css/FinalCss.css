@@ -1,0 +1,17 @@
+﻿body {
+    background-image: url("../Images/Img3.jpg");
+    background-repeat:no-repeat;
+    background-size:100%;
+}
+
+div {
+    background-color:#a97249;
+    width:40%;
+    height:20%;
+    color:#1a120f;
+    margin:100px;
+    margin-left:30%;
+    padding:100px;
+    font-size:50px;
+    opacity:0.9;
+}

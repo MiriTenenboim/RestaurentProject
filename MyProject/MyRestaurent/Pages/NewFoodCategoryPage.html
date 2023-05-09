@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>RICOTTA Restaurant</title>
+    <!-- AXIOS -->
+    <script src="../JavaScript/axiosWithoutInthernet.js"></script>
+    <script src="../Conection/NewFoodCategoryConnection.js"></script>
+    <link href="../Css/GeneralCss.css" rel="stylesheet" />
+    <link href="../Css/EnterPageCss.css" rel="stylesheet" />
+    <link href="../Css/FoodCategoryCss.css" rel="stylesheet" />
+    <title></title>
+</head>
+<body>
+    <img id="Logo" src="../Images/Logo-removebg-preview.jpg" />
+    <div>
+        <nav>
+            <ul>
+                <li class="active"><a href="HomePageManager.html">Home Page</a></li>
+                <li><a href="NewRationPage.html">Add Or Update A Ration</a></li>
+                <li><a href="NewTablePage.html">Add Or Update A Table</a></li>
+                <li><a href="NewFoodCategoryPage.html">Add Or Update A Food Category</a></li>
+            </ul>
+        </nav>
+    </div>
+    <div id="underNav"></div>
+    <div class="login-wrap">
+        <div class="login-html">
+            <input id="tab-1" type="radio" name="tab" class="sign-in" checked><label for="tab-1" class="tab">Add A Food Category</label>
+            <input id="tab-2" type="radio" name="tab" class="sign-up"><label for="tab-2" class="tab"></label>
+            <div class="login-form">
+                <div class="sign-in-htm">
+                    <div class="group">
+                        <label for="CategoryName" class="label">Name Food Category</label>
+                        <input id="CategoryName" type="text" class="input">
+                    </div>
+                    <br /><br />
+                    <div class="group">
+                        <button onclick="AddFoodCategory('https://localhost:44387/api/FoodCategory/AddFoodCategory')" class="button">Add the food category</button>
+                    </div>
+                    <div class="hr"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

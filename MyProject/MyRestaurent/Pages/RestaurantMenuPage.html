@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>RICOTTA Restaurant</title>
+    <!-- AXIOS -->
+    <link rel="icon" type="image/x-icon" href="../Images/Logo-removebg-preview.jpg" />
+    <script src="../JavaScript/axiosWithoutInthernet.js"></script>
+    <link href="../../Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="../../Scripts/bootstrap.bundle.min.js"></script>
+    <script src="../Conection/RestaurentMenuConection.js"></script>
+    <link href="../Css/GeneralCss.css" rel="stylesheet" />
+    <link href="../Css/EnterPageCss.css" rel="stylesheet" />
+    <link href="../Css/RestaurentMenuStyleSheet.css" rel="stylesheet" />
+    <script src="../JavaScript/RestaurentMenuJavaScript.js"></script>
+</head>
+<body onload="Init()">
+    <img id="Logo" src="../Images/Logo-removebg-preview.jpg" />
+    <div>
+        <nav>
+            <ul>
+                <li class="active"><a href="HomePage.html">Home Page</a></li>
+                <li><a href="RestaurantMenuPage.html">Restaurant Menu</a></li>
+                <li><a href="FinalOrderPage.html">Order Summary</a></li>
+                <li><a href="RatePage.html">Rate A Dish</a></li>
+            </ul>
+        </nav>
+    </div>
+    <div id="underNav"></div>
+    <br />
+    <div id="filtering">
+        <table id="Filter">
+            <tr>
+                <td class="TdFilter">
+                    <!-- אפשרויות סינון -->
+                    <select onchange="Filtering()" id="MainFilter">
+                        <option value="0">אפשרויות סינון</option>
+                        <option value="1">סינון לפי קטגוריה</option>
+                        <option value="2">סינון לפי נקודות דירוג</option>
+                        <option value="3">סינון לפי חלבי או לא</option>
+                        <option value="4">סינון לפי מחיר</option>
+                        <option value="5">סינון לפי שם מנה</option>
+                    </select>
+                </td>
+                <!-- סינון פנימי לפי הבחירה של הסינון החיצוני -->
+                <td id="TdFilter" onchange="GetRationsAfterFiltering()">
+                    <select id="filter">
+                    </select>
+                </td>
+                <td id="RangeMin" class="TdFilter">
+                </td>
+                <td id="RangeMax" class="TdFilter">
+                </td>
+                <td id="RangeButton" class="TdFilter">
+                </td>
+            </tr>
+        </table>
+        <br /><br />
+    </div>
+    <div id="RestaurentMenu"></div>
+    <br /><br />
+    <button onclick="ViewOrder()" class="button type2">
+        לסיום ההזמנה
+    </button>
+    <!-- footer -->
+    <div style="height:150px;"></div>
+</body>
+</html>

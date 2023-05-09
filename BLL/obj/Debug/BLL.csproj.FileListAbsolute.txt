@@ -1,0 +1,580 @@
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\MyRestaurent\BLL\bin\Debug\BLL.dll
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\MyRestaurent\BLL\bin\Debug\BLL.pdb
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\MyRestaurent\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\MyRestaurent\BLL\obj\Debug\BLL.dll
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\MyRestaurent\BLL\obj\Debug\BLL.pdb
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\MyRestaurent\BLL\bin\Debug\DAL.dll
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\MyRestaurent\BLL\bin\Debug\DTO.dll
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\MyRestaurent\BLL\bin\Debug\DAL.pdb
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\MyRestaurent\BLL\bin\Debug\DTO.pdb
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\תכנות\פרויקט\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+F:\תכנות\פרויקט\MyRestaurent\BLL\bin\Debug\BLL.dll
+F:\תכנות\פרויקט\MyRestaurent\BLL\bin\Debug\BLL.pdb
+F:\תכנות\פרויקט\MyRestaurent\BLL\bin\Debug\DAL.dll
+F:\תכנות\פרויקט\MyRestaurent\BLL\bin\Debug\DTO.dll
+F:\תכנות\פרויקט\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+F:\תכנות\פרויקט\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+F:\תכנות\פרויקט\MyRestaurent\BLL\bin\Debug\DAL.pdb
+F:\תכנות\פרויקט\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+F:\תכנות\פרויקט\MyRestaurent\BLL\bin\Debug\DTO.pdb
+F:\תכנות\פרויקט\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+F:\תכנות\פרויקט\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+F:\תכנות\פרויקט\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+F:\תכנות\פרויקט\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\תכנות\פרויקט\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\תכנות\פרויקט\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\תכנות\פרויקט\MyRestaurent\BLL\obj\Debug\BLL.dll
+F:\תכנות\פרויקט\MyRestaurent\BLL\obj\Debug\BLL.pdb
+C:\Users\טננבוים\Desktop\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+C:\Users\טננבוים\Desktop\MyRestaurent\BLL\bin\Debug\BLL.dll
+C:\Users\טננבוים\Desktop\MyRestaurent\BLL\bin\Debug\BLL.pdb
+C:\Users\טננבוים\Desktop\MyRestaurent\BLL\bin\Debug\DAL.dll
+C:\Users\טננבוים\Desktop\MyRestaurent\BLL\bin\Debug\DTO.dll
+C:\Users\טננבוים\Desktop\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+C:\Users\טננבוים\Desktop\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\טננבוים\Desktop\MyRestaurent\BLL\bin\Debug\DAL.pdb
+C:\Users\טננבוים\Desktop\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+C:\Users\טננבוים\Desktop\MyRestaurent\BLL\bin\Debug\DTO.pdb
+C:\Users\טננבוים\Desktop\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+C:\Users\טננבוים\Desktop\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+C:\Users\טננבוים\Desktop\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\טננבוים\Desktop\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\טננבוים\Desktop\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\טננבוים\Desktop\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\טננבוים\Desktop\MyRestaurent\BLL\obj\Debug\BLL.dll
+C:\Users\טננבוים\Desktop\MyRestaurent\BLL\obj\Debug\BLL.pdb
+D:\גיבוי\Desktop\תקיות משפחה\מירי\תכנות\פרויקט\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\גיבוי\Desktop\תקיות משפחה\מירי\תכנות\פרויקט\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\גיבוי\Desktop\תקיות משפחה\מירי\תכנות\פרויקט\MyRestaurent\BLL\obj\Debug\BLL.dll
+D:\גיבוי\Desktop\תקיות משפחה\מירי\תכנות\פרויקט\MyRestaurent\BLL\obj\Debug\BLL.pdb
+D:\גיבוי\Desktop\תקיות משפחה\מירי\תכנות\פרויקט\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+D:\גיבוי\Desktop\תקיות משפחה\מירי\תכנות\פרויקט\MyRestaurent\BLL\bin\Debug\BLL.dll
+D:\גיבוי\Desktop\תקיות משפחה\מירי\תכנות\פרויקט\MyRestaurent\BLL\bin\Debug\BLL.pdb
+D:\גיבוי\Desktop\תקיות משפחה\מירי\תכנות\פרויקט\MyRestaurent\BLL\bin\Debug\DAL.dll
+D:\גיבוי\Desktop\תקיות משפחה\מירי\תכנות\פרויקט\MyRestaurent\BLL\bin\Debug\DTO.dll
+D:\גיבוי\Desktop\תקיות משפחה\מירי\תכנות\פרויקט\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+D:\גיבוי\Desktop\תקיות משפחה\מירי\תכנות\פרויקט\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\גיבוי\Desktop\תקיות משפחה\מירי\תכנות\פרויקט\MyRestaurent\BLL\bin\Debug\DAL.pdb
+D:\גיבוי\Desktop\תקיות משפחה\מירי\תכנות\פרויקט\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+D:\גיבוי\Desktop\תקיות משפחה\מירי\תכנות\פרויקט\MyRestaurent\BLL\bin\Debug\DTO.pdb
+D:\גיבוי\Desktop\תקיות משפחה\מירי\תכנות\פרויקט\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+D:\גיבוי\Desktop\תקיות משפחה\מירי\תכנות\פרויקט\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+D:\גיבוי\Desktop\תקיות משפחה\מירי\תכנות\פרויקט\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\גיבוי\Desktop\תקיות משפחה\מירי\תכנות\פרויקט\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\ProjectRestaurent\MyRestaurent\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\ProjectRestaurent\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\ProjectRestaurent\MyRestaurent\BLL\obj\Debug\BLL.dll
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\ProjectRestaurent\MyRestaurent\BLL\obj\Debug\BLL.pdb
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\ProjectRestaurent\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\ProjectRestaurent\MyRestaurent\BLL\bin\Debug\BLL.dll
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\ProjectRestaurent\MyRestaurent\BLL\bin\Debug\BLL.pdb
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\ProjectRestaurent\MyRestaurent\BLL\bin\Debug\DAL.dll
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\ProjectRestaurent\MyRestaurent\BLL\bin\Debug\DTO.dll
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\ProjectRestaurent\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\ProjectRestaurent\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\ProjectRestaurent\MyRestaurent\BLL\bin\Debug\DAL.pdb
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\ProjectRestaurent\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\ProjectRestaurent\MyRestaurent\BLL\bin\Debug\DTO.pdb
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\ProjectRestaurent\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\ProjectRestaurent\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\ProjectRestaurent\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+H:\שנה א תשפב\פרויקט\מירי טננבוים\פרויקט\ProjectRestaurent\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\MyRestaurent\BLL\obj\Debug\BLL.dll
+D:\MyRestaurent\BLL\obj\Debug\BLL.pdb
+C:\Users\טננבוים\Documents\מירי\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\טננבוים\Documents\מירי\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\טננבוים\Documents\מירי\MyRestaurent\BLL\obj\Debug\BLL.dll
+C:\Users\טננבוים\Documents\מירי\MyRestaurent\BLL\obj\Debug\BLL.pdb
+C:\Users\טננבוים\Documents\מירי\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+C:\Users\טננבוים\Documents\מירי\MyRestaurent\BLL\bin\Debug\BLL.dll
+C:\Users\טננבוים\Documents\מירי\MyRestaurent\BLL\bin\Debug\BLL.pdb
+C:\Users\טננבוים\Documents\מירי\MyRestaurent\BLL\bin\Debug\DAL.dll
+C:\Users\טננבוים\Documents\מירי\MyRestaurent\BLL\bin\Debug\DTO.dll
+C:\Users\טננבוים\Documents\מירי\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+C:\Users\טננבוים\Documents\מירי\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\טננבוים\Documents\מירי\MyRestaurent\BLL\bin\Debug\DAL.pdb
+C:\Users\טננבוים\Documents\מירי\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+C:\Users\טננבוים\Documents\מירי\MyRestaurent\BLL\bin\Debug\DTO.pdb
+C:\Users\טננבוים\Documents\מירי\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+C:\Users\טננבוים\Documents\מירי\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+C:\Users\טננבוים\Documents\מירי\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\טננבוים\Documents\מירי\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+H:\תכנות שנה ב תשפג\מירי טננבוים\05.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\05.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\05.09.2022\MyRestaurent\BLL\obj\Debug\BLL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\05.09.2022\MyRestaurent\BLL\obj\Debug\BLL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\05.09.2022\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\05.09.2022\MyRestaurent\BLL\bin\Debug\BLL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\05.09.2022\MyRestaurent\BLL\bin\Debug\BLL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\05.09.2022\MyRestaurent\BLL\bin\Debug\DAL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\05.09.2022\MyRestaurent\BLL\bin\Debug\DTO.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\05.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\05.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\05.09.2022\MyRestaurent\BLL\bin\Debug\DAL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\05.09.2022\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\05.09.2022\MyRestaurent\BLL\bin\Debug\DTO.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\05.09.2022\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\05.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+H:\תכנות שנה ב תשפג\מירי טננבוים\05.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+H:\תכנות שנה ב תשפג\מירי טננבוים\05.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+H:\תכנות שנה ב תשפג\מירי טננבוים\06.09.2022\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\06.09.2022\MyRestaurent\BLL\bin\Debug\BLL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\06.09.2022\MyRestaurent\BLL\bin\Debug\BLL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\06.09.2022\MyRestaurent\BLL\bin\Debug\DAL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\06.09.2022\MyRestaurent\BLL\bin\Debug\DTO.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\06.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\06.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\06.09.2022\MyRestaurent\BLL\bin\Debug\DAL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\06.09.2022\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\06.09.2022\MyRestaurent\BLL\bin\Debug\DTO.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\06.09.2022\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\06.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+H:\תכנות שנה ב תשפג\מירי טננבוים\06.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+H:\תכנות שנה ב תשפג\מירי טננבוים\06.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\06.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\06.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+H:\תכנות שנה ב תשפג\מירי טננבוים\06.09.2022\MyRestaurent\BLL\obj\Debug\BLL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\06.09.2022\MyRestaurent\BLL\obj\Debug\BLL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\06.09.2022\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\06.09.2022\MyRestaurent\BLL\bin\Debug\BLL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\06.09.2022\MyRestaurent\BLL\bin\Debug\BLL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\06.09.2022\MyRestaurent\BLL\bin\Debug\DAL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\06.09.2022\MyRestaurent\BLL\bin\Debug\DTO.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\06.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\06.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\06.09.2022\MyRestaurent\BLL\bin\Debug\DAL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\06.09.2022\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\06.09.2022\MyRestaurent\BLL\bin\Debug\DTO.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\06.09.2022\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\06.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\06.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\06.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\06.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\06.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\06.09.2022\MyRestaurent\BLL\obj\Debug\BLL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\06.09.2022\MyRestaurent\BLL\obj\Debug\BLL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\11.09.2022\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\11.09.2022\MyRestaurent\BLL\bin\Debug\BLL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\11.09.2022\MyRestaurent\BLL\bin\Debug\BLL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\11.09.2022\MyRestaurent\BLL\bin\Debug\DAL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\11.09.2022\MyRestaurent\BLL\bin\Debug\DTO.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\11.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\11.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\11.09.2022\MyRestaurent\BLL\bin\Debug\DAL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\11.09.2022\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\11.09.2022\MyRestaurent\BLL\bin\Debug\DTO.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\11.09.2022\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\11.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\11.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\11.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\11.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\11.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\11.09.2022\MyRestaurent\BLL\obj\Debug\BLL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\11.09.2022\MyRestaurent\BLL\obj\Debug\BLL.pdb
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\bin\Debug\BLL.dll
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\bin\Debug\BLL.pdb
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\bin\Debug\DAL.dll
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\bin\Debug\DTO.dll
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\bin\Debug\DAL.pdb
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\bin\Debug\DTO.pdb
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\obj\Debug\BLL.dll
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\obj\Debug\BLL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\obj\Debug\BLL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\obj\Debug\BLL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\bin\Debug\BLL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\bin\Debug\BLL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\bin\Debug\DAL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\bin\Debug\DTO.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\bin\Debug\DAL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\bin\Debug\DTO.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\12.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\18.09.2022\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\18.09.2022\MyRestaurent\BLL\bin\Debug\BLL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\18.09.2022\MyRestaurent\BLL\bin\Debug\BLL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\18.09.2022\MyRestaurent\BLL\bin\Debug\DAL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\18.09.2022\MyRestaurent\BLL\bin\Debug\DTO.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\18.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\18.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\18.09.2022\MyRestaurent\BLL\bin\Debug\DAL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\18.09.2022\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\18.09.2022\MyRestaurent\BLL\bin\Debug\DTO.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\18.09.2022\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\18.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\18.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\18.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\18.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\18.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\18.09.2022\MyRestaurent\BLL\obj\Debug\BLL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\פרויקט מסעדה\18.09.2022\MyRestaurent\BLL\obj\Debug\BLL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.09.2022\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.09.2022\MyRestaurent\BLL\bin\Debug\BLL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.09.2022\MyRestaurent\BLL\bin\Debug\BLL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.09.2022\MyRestaurent\BLL\bin\Debug\DAL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.09.2022\MyRestaurent\BLL\bin\Debug\DTO.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.09.2022\MyRestaurent\BLL\bin\Debug\DAL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.09.2022\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.09.2022\MyRestaurent\BLL\bin\Debug\DTO.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.09.2022\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.09.2022\MyRestaurent\BLL\obj\Debug\BLL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.09.2022\MyRestaurent\BLL\obj\Debug\BLL.pdb
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\20.09.2022\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\20.09.2022\MyRestaurent\BLL\bin\Debug\BLL.dll
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\20.09.2022\MyRestaurent\BLL\bin\Debug\BLL.pdb
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\20.09.2022\MyRestaurent\BLL\bin\Debug\DAL.dll
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\20.09.2022\MyRestaurent\BLL\bin\Debug\DTO.dll
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\20.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\20.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\20.09.2022\MyRestaurent\BLL\bin\Debug\DAL.pdb
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\20.09.2022\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\20.09.2022\MyRestaurent\BLL\bin\Debug\DTO.pdb
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\20.09.2022\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\20.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\20.09.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\20.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\20.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\20.09.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\20.09.2022\MyRestaurent\BLL\obj\Debug\BLL.dll
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\20.09.2022\MyRestaurent\BLL\obj\Debug\BLL.pdb
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\17.10.2022\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\17.10.2022\MyRestaurent\BLL\bin\Debug\BLL.dll
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\17.10.2022\MyRestaurent\BLL\bin\Debug\BLL.pdb
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\17.10.2022\MyRestaurent\BLL\bin\Debug\DAL.dll
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\17.10.2022\MyRestaurent\BLL\bin\Debug\DTO.dll
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\17.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\17.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\17.10.2022\MyRestaurent\BLL\bin\Debug\DAL.pdb
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\17.10.2022\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\17.10.2022\MyRestaurent\BLL\bin\Debug\DTO.pdb
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\17.10.2022\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\17.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\17.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\17.10.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\17.10.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\17.10.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\17.10.2022\MyRestaurent\BLL\obj\Debug\BLL.dll
+D:\תקיות משפחה\מירי\C# פרויקט\פרויקט מסעדה\17.10.2022\MyRestaurent\BLL\obj\Debug\BLL.pdb
+C:\17.10.2022\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+C:\17.10.2022\MyRestaurent\BLL\bin\Debug\BLL.dll
+C:\17.10.2022\MyRestaurent\BLL\bin\Debug\BLL.pdb
+C:\17.10.2022\MyRestaurent\BLL\bin\Debug\DAL.dll
+C:\17.10.2022\MyRestaurent\BLL\bin\Debug\DTO.dll
+C:\17.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+C:\17.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\17.10.2022\MyRestaurent\BLL\bin\Debug\DAL.pdb
+C:\17.10.2022\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+C:\17.10.2022\MyRestaurent\BLL\bin\Debug\DTO.pdb
+C:\17.10.2022\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+C:\17.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+C:\17.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\17.10.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\17.10.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\17.10.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\17.10.2022\MyRestaurent\BLL\obj\Debug\BLL.dll
+C:\17.10.2022\MyRestaurent\BLL\obj\Debug\BLL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.10.2022\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.10.2022\MyRestaurent\BLL\bin\Debug\BLL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.10.2022\MyRestaurent\BLL\bin\Debug\BLL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.10.2022\MyRestaurent\BLL\bin\Debug\DAL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.10.2022\MyRestaurent\BLL\bin\Debug\DTO.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.10.2022\MyRestaurent\BLL\bin\Debug\DAL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.10.2022\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.10.2022\MyRestaurent\BLL\bin\Debug\DTO.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.10.2022\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.10.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.10.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.10.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.10.2022\MyRestaurent\BLL\obj\Debug\BLL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\20.10.2022\MyRestaurent\BLL\obj\Debug\BLL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\24.10.2022\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\24.10.2022\MyRestaurent\BLL\bin\Debug\BLL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\24.10.2022\MyRestaurent\BLL\bin\Debug\BLL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\24.10.2022\MyRestaurent\BLL\bin\Debug\DAL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\24.10.2022\MyRestaurent\BLL\bin\Debug\DTO.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\24.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\24.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\24.10.2022\MyRestaurent\BLL\bin\Debug\DAL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\24.10.2022\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\24.10.2022\MyRestaurent\BLL\bin\Debug\DTO.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\24.10.2022\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\24.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\24.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\24.10.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\24.10.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\24.10.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\24.10.2022\MyRestaurent\BLL\obj\Debug\BLL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\24.10.2022\MyRestaurent\BLL\obj\Debug\BLL.pdb
+C:\24.10.2022\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+C:\24.10.2022\MyRestaurent\BLL\bin\Debug\BLL.dll
+C:\24.10.2022\MyRestaurent\BLL\bin\Debug\BLL.pdb
+C:\24.10.2022\MyRestaurent\BLL\bin\Debug\DAL.dll
+C:\24.10.2022\MyRestaurent\BLL\bin\Debug\DTO.dll
+C:\24.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+C:\24.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\24.10.2022\MyRestaurent\BLL\bin\Debug\DAL.pdb
+C:\24.10.2022\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+C:\24.10.2022\MyRestaurent\BLL\bin\Debug\DTO.pdb
+C:\24.10.2022\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+C:\24.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+C:\24.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\24.10.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\24.10.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\24.10.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\24.10.2022\MyRestaurent\BLL\obj\Debug\BLL.dll
+C:\24.10.2022\MyRestaurent\BLL\obj\Debug\BLL.pdb
+C:\26.10.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\26.10.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\26.10.2022\MyRestaurent\BLL\obj\Debug\BLL.dll
+C:\26.10.2022\MyRestaurent\BLL\obj\Debug\BLL.pdb
+C:\26.10.2022\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+C:\26.10.2022\MyRestaurent\BLL\bin\Debug\BLL.dll
+C:\26.10.2022\MyRestaurent\BLL\bin\Debug\BLL.pdb
+C:\26.10.2022\MyRestaurent\BLL\bin\Debug\DAL.dll
+C:\26.10.2022\MyRestaurent\BLL\bin\Debug\DTO.dll
+C:\26.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+C:\26.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\26.10.2022\MyRestaurent\BLL\bin\Debug\DAL.pdb
+C:\26.10.2022\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+C:\26.10.2022\MyRestaurent\BLL\bin\Debug\DTO.pdb
+C:\26.10.2022\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+C:\26.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+C:\26.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\26.10.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\30.10.2022\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+C:\30.10.2022\MyRestaurent\BLL\bin\Debug\BLL.dll
+C:\30.10.2022\MyRestaurent\BLL\bin\Debug\BLL.pdb
+C:\30.10.2022\MyRestaurent\BLL\bin\Debug\DAL.dll
+C:\30.10.2022\MyRestaurent\BLL\bin\Debug\DTO.dll
+C:\30.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+C:\30.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\30.10.2022\MyRestaurent\BLL\bin\Debug\DAL.pdb
+C:\30.10.2022\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+C:\30.10.2022\MyRestaurent\BLL\bin\Debug\DTO.pdb
+C:\30.10.2022\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+C:\30.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+C:\30.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\30.10.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\30.10.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\30.10.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\30.10.2022\MyRestaurent\BLL\obj\Debug\BLL.dll
+C:\30.10.2022\MyRestaurent\BLL\obj\Debug\BLL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\30.10.2022\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\30.10.2022\MyRestaurent\BLL\bin\Debug\BLL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\30.10.2022\MyRestaurent\BLL\bin\Debug\BLL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\30.10.2022\MyRestaurent\BLL\bin\Debug\DAL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\30.10.2022\MyRestaurent\BLL\bin\Debug\DTO.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\30.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\30.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\30.10.2022\MyRestaurent\BLL\bin\Debug\DAL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\30.10.2022\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\30.10.2022\MyRestaurent\BLL\bin\Debug\DTO.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\30.10.2022\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\30.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\30.10.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\30.10.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\30.10.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\30.10.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\30.10.2022\MyRestaurent\BLL\obj\Debug\BLL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\30.10.2022\MyRestaurent\BLL\obj\Debug\BLL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\07.11.2022\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\07.11.2022\MyRestaurent\BLL\bin\Debug\BLL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\07.11.2022\MyRestaurent\BLL\bin\Debug\BLL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\07.11.2022\MyRestaurent\BLL\bin\Debug\DAL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\07.11.2022\MyRestaurent\BLL\bin\Debug\DTO.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\07.11.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\07.11.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\07.11.2022\MyRestaurent\BLL\bin\Debug\DAL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\07.11.2022\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\07.11.2022\MyRestaurent\BLL\bin\Debug\DTO.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\07.11.2022\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\07.11.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\07.11.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\07.11.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\07.11.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\07.11.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\07.11.2022\MyRestaurent\BLL\obj\Debug\BLL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\07.11.2022\MyRestaurent\BLL\obj\Debug\BLL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\08.11.2022\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\08.11.2022\MyRestaurent\BLL\bin\Debug\BLL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\08.11.2022\MyRestaurent\BLL\bin\Debug\BLL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\08.11.2022\MyRestaurent\BLL\bin\Debug\DAL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\08.11.2022\MyRestaurent\BLL\bin\Debug\DTO.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\08.11.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\08.11.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\08.11.2022\MyRestaurent\BLL\bin\Debug\DAL.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\08.11.2022\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\08.11.2022\MyRestaurent\BLL\bin\Debug\DTO.pdb
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\08.11.2022\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\08.11.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\08.11.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\08.11.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\08.11.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\08.11.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\08.11.2022\MyRestaurent\BLL\obj\Debug\BLL.dll
+H:\תכנות שנה ב תשפג\מירי טננבוים\C# פרויקט\08.11.2022\MyRestaurent\BLL\obj\Debug\BLL.pdb
+C:\מירי\21.11.2022\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+C:\מירי\21.11.2022\MyRestaurent\BLL\bin\Debug\BLL.dll
+C:\מירי\21.11.2022\MyRestaurent\BLL\bin\Debug\BLL.pdb
+C:\מירי\21.11.2022\MyRestaurent\BLL\bin\Debug\DAL.dll
+C:\מירי\21.11.2022\MyRestaurent\BLL\bin\Debug\DTO.dll
+C:\מירי\21.11.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+C:\מירי\21.11.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\מירי\21.11.2022\MyRestaurent\BLL\bin\Debug\DAL.pdb
+C:\מירי\21.11.2022\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+C:\מירי\21.11.2022\MyRestaurent\BLL\bin\Debug\DTO.pdb
+C:\מירי\21.11.2022\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+C:\מירי\21.11.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+C:\מירי\21.11.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\מירי\21.11.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\מירי\21.11.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\מירי\21.11.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\מירי\21.11.2022\MyRestaurent\BLL\obj\Debug\BLL.dll
+C:\מירי\21.11.2022\MyRestaurent\BLL\obj\Debug\BLL.pdb
+C:\מירי\06.12.2022\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+C:\מירי\06.12.2022\MyRestaurent\BLL\bin\Debug\BLL.dll
+C:\מירי\06.12.2022\MyRestaurent\BLL\bin\Debug\BLL.pdb
+C:\מירי\06.12.2022\MyRestaurent\BLL\bin\Debug\DAL.dll
+C:\מירי\06.12.2022\MyRestaurent\BLL\bin\Debug\DTO.dll
+C:\מירי\06.12.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+C:\מירי\06.12.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\מירי\06.12.2022\MyRestaurent\BLL\bin\Debug\DAL.pdb
+C:\מירי\06.12.2022\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+C:\מירי\06.12.2022\MyRestaurent\BLL\bin\Debug\DTO.pdb
+C:\מירי\06.12.2022\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+C:\מירי\06.12.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+C:\מירי\06.12.2022\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\מירי\06.12.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\מירי\06.12.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\מירי\06.12.2022\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\מירי\06.12.2022\MyRestaurent\BLL\obj\Debug\BLL.dll
+C:\מירי\06.12.2022\MyRestaurent\BLL\obj\Debug\BLL.pdb
+C:\Users\טננבוים\Documents\מירי\05.01.2023\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+C:\Users\טננבוים\Documents\מירי\05.01.2023\MyRestaurent\BLL\bin\Debug\BLL.dll
+C:\Users\טננבוים\Documents\מירי\05.01.2023\MyRestaurent\BLL\bin\Debug\BLL.pdb
+C:\Users\טננבוים\Documents\מירי\05.01.2023\MyRestaurent\BLL\bin\Debug\DAL.dll
+C:\Users\טננבוים\Documents\מירי\05.01.2023\MyRestaurent\BLL\bin\Debug\DTO.dll
+C:\Users\טננבוים\Documents\מירי\05.01.2023\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+C:\Users\טננבוים\Documents\מירי\05.01.2023\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\טננבוים\Documents\מירי\05.01.2023\MyRestaurent\BLL\bin\Debug\DAL.pdb
+C:\Users\טננבוים\Documents\מירי\05.01.2023\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+C:\Users\טננבוים\Documents\מירי\05.01.2023\MyRestaurent\BLL\bin\Debug\DTO.pdb
+C:\Users\טננבוים\Documents\מירי\05.01.2023\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+C:\Users\טננבוים\Documents\מירי\05.01.2023\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+C:\Users\טננבוים\Documents\מירי\05.01.2023\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\טננבוים\Documents\מירי\05.01.2023\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\טננבוים\Documents\מירי\05.01.2023\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\טננבוים\Documents\מירי\05.01.2023\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\טננבוים\Documents\מירי\05.01.2023\MyRestaurent\BLL\obj\Debug\BLL.dll
+C:\Users\טננבוים\Documents\מירי\05.01.2023\MyRestaurent\BLL\obj\Debug\BLL.pdb
+C:\Users\טננבוים\Documents\מירי\08.01.2023\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\טננבוים\Documents\מירי\08.01.2023\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\טננבוים\Documents\מירי\08.01.2023\MyRestaurent\BLL\obj\Debug\BLL.dll
+C:\Users\טננבוים\Documents\מירי\08.01.2023\MyRestaurent\BLL\obj\Debug\BLL.pdb
+C:\Users\טננבוים\Documents\מירי\08.01.2023\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+C:\Users\טננבוים\Documents\מירי\08.01.2023\MyRestaurent\BLL\bin\Debug\BLL.dll
+C:\Users\טננבוים\Documents\מירי\08.01.2023\MyRestaurent\BLL\bin\Debug\BLL.pdb
+C:\Users\טננבוים\Documents\מירי\08.01.2023\MyRestaurent\BLL\bin\Debug\DAL.dll
+C:\Users\טננבוים\Documents\מירי\08.01.2023\MyRestaurent\BLL\bin\Debug\DTO.dll
+C:\Users\טננבוים\Documents\מירי\08.01.2023\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+C:\Users\טננבוים\Documents\מירי\08.01.2023\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\טננבוים\Documents\מירי\08.01.2023\MyRestaurent\BLL\bin\Debug\DAL.pdb
+C:\Users\טננבוים\Documents\מירי\08.01.2023\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+C:\Users\טננבוים\Documents\מירי\08.01.2023\MyRestaurent\BLL\bin\Debug\DTO.pdb
+C:\Users\טננבוים\Documents\מירי\08.01.2023\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+C:\Users\טננבוים\Documents\מירי\08.01.2023\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+C:\Users\טננבוים\Documents\מירי\08.01.2023\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\טננבוים\Documents\מירי\08.01.2023\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\טננבוים\Documents\מירי\15.01.2023\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+C:\Users\טננבוים\Documents\מירי\15.01.2023\MyRestaurent\BLL\bin\Debug\BLL.dll
+C:\Users\טננבוים\Documents\מירי\15.01.2023\MyRestaurent\BLL\bin\Debug\BLL.pdb
+C:\Users\טננבוים\Documents\מירי\15.01.2023\MyRestaurent\BLL\bin\Debug\DAL.dll
+C:\Users\טננבוים\Documents\מירי\15.01.2023\MyRestaurent\BLL\bin\Debug\DTO.dll
+C:\Users\טננבוים\Documents\מירי\15.01.2023\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+C:\Users\טננבוים\Documents\מירי\15.01.2023\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\טננבוים\Documents\מירי\15.01.2023\MyRestaurent\BLL\bin\Debug\DAL.pdb
+C:\Users\טננבוים\Documents\מירי\15.01.2023\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+C:\Users\טננבוים\Documents\מירי\15.01.2023\MyRestaurent\BLL\bin\Debug\DTO.pdb
+C:\Users\טננבוים\Documents\מירי\15.01.2023\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+C:\Users\טננבוים\Documents\מירי\15.01.2023\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+C:\Users\טננבוים\Documents\מירי\15.01.2023\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\טננבוים\Documents\מירי\15.01.2023\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\טננבוים\Documents\מירי\15.01.2023\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\טננבוים\Documents\מירי\15.01.2023\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\טננבוים\Documents\מירי\15.01.2023\MyRestaurent\BLL\obj\Debug\BLL.dll
+C:\Users\טננבוים\Documents\מירי\15.01.2023\MyRestaurent\BLL\obj\Debug\BLL.pdb
+C:\Users\טננבוים\Documents\מירי\23.01.2023\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+C:\Users\טננבוים\Documents\מירי\23.01.2023\MyRestaurent\BLL\bin\Debug\BLL.dll
+C:\Users\טננבוים\Documents\מירי\23.01.2023\MyRestaurent\BLL\bin\Debug\BLL.pdb
+C:\Users\טננבוים\Documents\מירי\23.01.2023\MyRestaurent\BLL\bin\Debug\DAL.dll
+C:\Users\טננבוים\Documents\מירי\23.01.2023\MyRestaurent\BLL\bin\Debug\DTO.dll
+C:\Users\טננבוים\Documents\מירי\23.01.2023\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+C:\Users\טננבוים\Documents\מירי\23.01.2023\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\טננבוים\Documents\מירי\23.01.2023\MyRestaurent\BLL\bin\Debug\DAL.pdb
+C:\Users\טננבוים\Documents\מירי\23.01.2023\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+C:\Users\טננבוים\Documents\מירי\23.01.2023\MyRestaurent\BLL\bin\Debug\DTO.pdb
+C:\Users\טננבוים\Documents\מירי\23.01.2023\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+C:\Users\טננבוים\Documents\מירי\23.01.2023\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+C:\Users\טננבוים\Documents\מירי\23.01.2023\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\טננבוים\Documents\מירי\23.01.2023\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\טננבוים\Documents\מירי\23.01.2023\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\טננבוים\Documents\מירי\23.01.2023\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\טננבוים\Documents\מירי\23.01.2023\MyRestaurent\BLL\obj\Debug\BLL.dll
+C:\Users\טננבוים\Documents\מירי\23.01.2023\MyRestaurent\BLL\obj\Debug\BLL.pdb
+C:\Users\טננבוים\Documents\מירי\פרויקט תיכון\23.01.2023\MyRestaurent\BLL\bin\Debug\BLL.dll.config
+C:\Users\טננבוים\Documents\מירי\פרויקט תיכון\23.01.2023\MyRestaurent\BLL\bin\Debug\BLL.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט תיכון\23.01.2023\MyRestaurent\BLL\bin\Debug\BLL.pdb
+C:\Users\טננבוים\Documents\מירי\פרויקט תיכון\23.01.2023\MyRestaurent\BLL\bin\Debug\DAL.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט תיכון\23.01.2023\MyRestaurent\BLL\bin\Debug\DTO.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט תיכון\23.01.2023\MyRestaurent\BLL\bin\Debug\EntityFramework.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט תיכון\23.01.2023\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט תיכון\23.01.2023\MyRestaurent\BLL\bin\Debug\DAL.pdb
+C:\Users\טננבוים\Documents\מירי\פרויקט תיכון\23.01.2023\MyRestaurent\BLL\bin\Debug\DAL.dll.config
+C:\Users\טננבוים\Documents\מירי\פרויקט תיכון\23.01.2023\MyRestaurent\BLL\bin\Debug\DTO.pdb
+C:\Users\טננבוים\Documents\מירי\פרויקט תיכון\23.01.2023\MyRestaurent\BLL\bin\Debug\DTO.dll.config
+C:\Users\טננבוים\Documents\מירי\פרויקט תיכון\23.01.2023\MyRestaurent\BLL\bin\Debug\EntityFramework.xml
+C:\Users\טננבוים\Documents\מירי\פרויקט תיכון\23.01.2023\MyRestaurent\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\טננבוים\Documents\מירי\פרויקט תיכון\23.01.2023\MyRestaurent\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט תיכון\23.01.2023\MyRestaurent\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\טננבוים\Documents\מירי\פרויקט תיכון\23.01.2023\MyRestaurent\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\טננבוים\Documents\מירי\פרויקט תיכון\23.01.2023\MyRestaurent\BLL\obj\Debug\BLL.dll
+C:\Users\טננבוים\Documents\מירי\פרויקט תיכון\23.01.2023\MyRestaurent\BLL\obj\Debug\BLL.pdb

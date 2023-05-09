@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>RICOTTA Restaurant</title>
+    <!-- AXIOS-->
+    <script src="../JavaScript/axiosWithoutInthernet.js"></script>
+    <script src="../Conection/NewTableConnection.js"></script>
+    <link rel="icon" type="image/x-icon" href="../Images/Logo-removebg-preview.jpg" />
+    <link href="../Css/GeneralCss.css" rel="stylesheet" />
+    <link href="../Css/HomePageCss.css" rel="stylesheet" />
+    <link href="../Css/EnterPageCss.css" rel="stylesheet" />
+    <link href="../Css/RestaurentMenuStyleSheet.css" rel="stylesheet" />
+    <link href="../Css/RationPageCss.css" rel="stylesheet" />
+    <link href="../Css/RatePageCss.css" rel="stylesheet" />
+    <title></title>
+</head>
+<body onload="GetOptionsTables('https://localhost:44387/api/Tables/GetAllTables')">
+    <img id="Logo" src="../Images/Logo-removebg-preview.jpg" />
+    <div>
+        <nav>
+            <ul>
+                <li class="active"><a href="HomePageManager.html">Home Page</a></li>
+                <li><a href="NewRationPage.html">Add Or Update A Ration</a></li>
+                <li><a href="NewTablePage.html">Add Or Update A Table</a></li>
+                <li><a href="NewFoodCategoryPage.html">Add Or Update A Food Category</a></li>
+            </ul>
+        </nav>
+    </div>
+    <div id="underNav"></div>
+    <br />
+    <div class="login-wrap">
+        <div class="login-html">
+            <input id="tab-1" type="radio" name="tab" class="sign-in" checked><label for="tab-1" class="tab">Add Table</label>
+            <input id="tab-2" type="radio" name="tab" class="sign-up"><label for="tab-2" class="tab">Update Table</label>
+            <div class="login-form">
+                <div class="sign-in-htm">
+                    <div class="group">
+                        <label for="TableLocation1" class="label">Table Location</label>
+                        <input id="TableLocation1" type="text" class="input" />
+                    </div>
+                    <div class="group">
+                        <label for="NumDiners1" class="label">Number Of Diners</label>
+                        <input id="NumDiners1" type="number" min="1" class="input">
+                    </div>
+                    <br /><br />
+                    <div class="group">
+                        <button onclick="AddTable('https://localhost:44387/api/Tables/AddTable',1)" class="button">Add the table</button>
+                    </div>
+                    <div class="hr"></div>
+                </div>
+                <div class="sign-up-htm">
+                    <div class="group">
+                        <label for="TableLocation2" class="label">Table Location</label>
+                        <select id="TableLocation2" onchange="FillDetails()">
+                        </select>
+                    </div>
+                    <div class="group">
+                        <label for="NumDiners2" class="label">Number Of Diners</label>
+                        <input id="NumDiners2" type="number" min="1" class="input">
+                    </div>
+                    <br /><br />
+                    <div class="group">
+                        <button onclick="AddTable('https://localhost:44387/api/Tables/AddTable',2)" class="button">Update the table</button>
+                    </div>
+                    <div class="hr"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--<div id="subTitle">הוספה / עדכון שולחן</div>
+    <input id="TableLocation" type="text" placeholder="מיקום השולחן" />
+    <input id="NumDiners" type="number" placeholder="מספר הסועדים בשולחן" />
+    <button onclick="AddTable('https://localhost:44387/api/Tables/AddTable')" style="width:200px; height:200px">להוספת השולחן</button><br /><br />-->
+</body>
+</html>
